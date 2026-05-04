@@ -1,308 +1,387 @@
 [
+
+  {
+    "type": "Wine",
+    "verName": "Proton.9.0-x86_64",
+    "verCode": "0",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/Xnick417x/Winlator-Bionic-Nightly-wcp/releases/download/GameNative/Proton.9.0-x86_64.wcp"
+  },
+  {
+    "type": "Wine",
+    "verName": "Proton.9.0-arm64ec",
+    "verCode": "0",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/Xnick417x/Winlator-Bionic-Nightly-wcp/releases/download/GameNative/Proton.9.0-arm64ec.wcp"
+  },
   {
     "type": "Wine",
     "verName": "proton-10-arm64ec",
     "verCode": "1",
     "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/releases/download/1.0/proton-10-arm64ec.wcp.xz"
   },
-  
+  {
+    "type": "Wine",
+    "verName": "Proton-10.0-4-x86_64",
+    "verCode": "0",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/Xnick417x/Winlator-Bionic-Nightly-wcp/releases/download/GameNative/Proton-10.0-4-x86_64.wcp"
+  },
+  {
+    "type": "Wine",
+    "verName": "Proton-10.0-4-arm64ec",
+    "verCode": "0",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/Xnick417x/Winlator-Bionic-Nightly-wcp/releases/download/GameNative/Proton-10.0-4-arm64ec.wcp"
+  },
+  {
+    "type": "Wine",
+    "verName": "Proton-arm64ec-10.99-NTSync-v5",
+    "verCode": "0",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/Xnick417x/Winlator-Bionic-Nightly-wcp/releases/download/GameNative/Proton-arm64ec-10.99-NTSync-v5.wcp"
+  },
+  {
+    "type": "Wine",
+    "verName": "Proton-BE-arm64ec-b01ca65",
+    "verCode": "0",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/Xnick417x/Winlator-Bionic-Nightly-wcp/releases/download/GameNative/Proton-BE-arm64ec-b01ca65.wcp"
+  },
+  {
+    "type": "Wine",
+    "verName": "Proton-11.0-1-x86_64",
+    "verCode": "0",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/Xnick417x/Winlator-Bionic-Nightly-wcp/releases/download/GameNative/Proton-11.0-1-x86_64.wcp"
+  },
+  {
+    "type": "Wine",
+    "verName": "Proton-11.0-1-arm64ec",
+    "verCode": "0",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/Xnick417x/Winlator-Bionic-Nightly-wcp/releases/download/GameNative/Proton-11.0-1-arm64ec.wcp"
+  },
   {
     "type": "Wine",
     "verName": "wine-9.20-x86_64",
     "verCode": "1",
     "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/releases/download/1.0/wine-9.20.wcp"
   },
-
+  {
+    "type": "Wine",
+    "verName": "wine-11.3-x86_64",
+    "verCode": "0",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/Xnick417x/Winlator-Bionic-Nightly-wcp/releases/download/Wine/wine-11.3-x86_64.wcp"
+  },
   {
     "type": "Box64",
     "verName": "0.3.5",
     "verCode": "1",
     "remoteUrl": "https://gh-proxy.org/https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.5.wcp"
   },
-  
   {
     "type": "Box64",
     "verName": "036fix",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-036fix.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/Box64/box64-036fix.wcp"
   },
-  
   {
     "type": "Box64",
     "verName": "0.3.7",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.7.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.7.wcp"
   },
-  
   {
     "type": "Box64",
     "verName": "0.3.8",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.8.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.8.wcp"
   },
-
-    {
+  {
     "type": "Box64",
     "verName": "0.3.9",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.9.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.9.wcp"
   },
-
-      {
+  {
+    "type": "Box64",
+    "verName": "0.4.0",
+    "verCode": "1",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.4.0.wcp"
+  },
+  {
     "type": "Box64",
     "verName": "0.4.1-fix",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.4.1-fix.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.4.1-fix.wcp"
   },
-
-        {
+  {
     "type": "Box64",
     "verName": "0.4.2-fix",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.4.2-fix.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.4.2-fix.wcp"
   },
-  
   {
   "type": "WOWBox64",
   "verName": "0.3.7-5768989",
   "verCode": "1",
-  "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/WOWBox64/WowBox64-0.3.7-5768989.wcp"
+  "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/WOWBox64/WowBox64-0.3.7-5768989.wcp"
   },
-
   {
   "type": "WOWBox64",
   "verName": "0.3.9-056999e",
   "verCode": "1",
-  "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/WOWBox64/WOWBox64-0.3.9-056999e.wcp"
+  "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/WOWBox64/WOWBox64-0.3.9-056999e.wcp"
   },
-
   {
   "type": "WOWBox64",
   "verName": "0.4.1-fix",
   "verCode": "1",
-  "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/WOWBox64/WOWBox64-0.4.1-fix.wcp"
+  "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/WOWBox64/WOWBox64-0.4.1-fix.wcp"
   },
-
+  {
+    "type": "DXVK",
+    "verName": "sarek-1.12",
+    "verCode": "1",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-sarek-1.12.wcp"
+  },
+  {
+    "type": "DXVK",
+    "verName": "sarek-dyasync-1.12",
+    "verCode": "1",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-sarek-dyasync-1.12.wcp"
+  },
   {
     "type": "DXVK",
     "verName": "1.5.5",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.5.5.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.5.5.wcp"
   },
-  
+  {
+    "type": "DXVK",
+    "verName": "1.5.5-async",
+    "verCode": "1",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.5.5-async.wcp"
+  },
+  {
+    "type": "DXVK",
+    "verName": "1.6.1-async",
+    "verCode": "1",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.6.1-async.wcp"
+  },
+  {
+    "type": "DXVK",
+    "verName": "1.7-async",
+    "verCode": "1",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.7-async.wcp"
+  },
   {
     "type": "DXVK",
     "verName": "1.7.2",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.7.2.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.7.2.wcp"
   },
-
+  {
+    "type": "DXVK",
+    "verName": "1.7.3-async",
+    "verCode": "1",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.7.3-async.wcp"
+  },
   {
     "type": "DXVK",
     "verName": "1.9.4",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.9.4.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.9.4.wcp"
   },
-  
+  {
+    "type": "DXVK",
+    "verName": "1.9.4-async",
+    "verCode": "1",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.9.4-async.wcp"
+  },
   {
     "type": "DXVK",
     "verName": "1.10.3-async",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.10.3-async.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.10.3-async.wcp"
   },
-  
-    {
+  {
     "type": "DXVK",
-    "verName": "11.1-sarek-async",
+    "verName": "1.10.3-arm64ec-async",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-11.1-sarek-async.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.10.3-arm64ec-async.wcp"
   },
-  
   {
     "type": "DXVK",
     "verName": "2.3.1-gplasync",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.3.1-gplasync.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.3.1-gplasync.wcp"
   },
-  
+  {
+    "type": "DXVK",
+    "verName": "2.3.1-arm64ec-gplasync",
+    "verCode": "1",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.3.1-arm64ec-gplasync.wcp"
+  },
   {
     "type": "DXVK",
     "verName": "2.4.1.1-gplasync-sp",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.4.1.1-gplasync-sp.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.4.1.1-gplasync-sp.wcp"
   },
-  
   {
     "type": "DXVK",
     "verName": "2.4.1-fix",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.4.1-fix.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.4.1-fix.wcp"
   },
-
   {
     "type": "DXVK",
     "verName": "2.4.1-arm64ec-gplasync",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.4.1-arm64ec-gplasync.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.4.1-arm64ec-gplasync.wcp"
   },
-
   {
     "type": "DXVK",
     "verName": "2.5.3-1-gplasync",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.5.3-1-gplasync.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.5.3-1-gplasync.wcp"
   },
-
+  {
+    "type": "DXVK",
+    "verName": "2.5.3-arm64ec-gplasync",
+    "verCode": "1",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.5.3-arm64ec-gplasync.wcp"
+  },
   {
     "type": "DXVK",
     "verName": "2.6-2-gplasync",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.6-2-gplasync.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.6-2-gplasync.wcp"
   },
-
-    {
+  {
     "type": "DXVK",
     "verName": "2.6.2-arm64ec-gplasync",
     "verCode": "0",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.6.2-arm64ec-gplasync.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.6.2-arm64ec-gplasync.wcp"
   },
-
   {
     "type": "DXVK",
     "verName": "2.7.1-gplasync",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.7.1-gplasync.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.7.1-gplasync.wcp"
   },
-
+  {
+    "type": "DXVK",
+    "verName": "2.7.1-arm64ec-gplasync",
+    "verCode": "1",
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.7.1-arm64ec-gplasync.wcp"
+  },
   {
     "type": "FEXCore",
     "verName": "241214",
     "verCode": "1",
     "remoteUrl": "https://gh-proxy.org/https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/fexcore_241214.wcp"
   },
-  
   {
     "type": "FEXCore",
     "verName": "2505",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/fexcore-2505.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/FEXCore/fexcore-2505.wcp"
   },
-  
   {
     "type": "FEXCore",
     "verName": "2507_fix",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/fexcore_2507_fix.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/FEXCore/fexcore_2507_fix.wcp"
   },
-  
   {
     "type": "FEXCore",
     "verName": "2508.1",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/2508.1.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/FEXCore/2508.1.wcp"
   },
-
   {
     "type": "FEXCore",
     "verName": "2509.1",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/2509.1.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/FEXCore/2509.1.wcp"
   },
-
   {
     "type": "FEXCore",
     "verName": "2510.1",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/2510.1.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/FEXCore/2510.1.wcp"
   },
-
   {
     "type": "FEXCore",
     "verName": "2511",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/2511.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/FEXCore/2511.wcp"
   },
-{
+  {
     "type": "FEXCore",
     "verName": "2512",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/2512.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/FEXCore/2512.wcp"
   },
-  
-{
+  {
     "type": "FEXCore",
     "verName": "2601",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/2601.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/FEXCore/2601.wcp"
   },
-{
+  {
     "type": "FEXCore",
     "verName": "2601-aabdded-nightly",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/FEXCore-2601-aabdded.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/FEXCore/FEXCore-2601-aabdded.wcp"
   },
-  
   {
     "type": "FEXCore",
     "verName": "2603",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/2603.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/FEXCore/2603.wcp"
   },
-
   {
     "type": "FEXCore",
     "verName": "2604",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/2604.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/FEXCore/2604.wcp"
   },
-  
-{
+  {
     "type": "VKD3D",
     "verName": "2.7-proton",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-proton-2.7.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-proton-2.7.wcp"
   },
-
-{
+  {
     "type": "VKD3D",
     "verName": "2.9-proton",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-proton-2.9.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-proton-2.9.wcp"
   },
-
-{
+  {
     "type": "VKD3D",
     "verName": "2.12-proton",
     "verCode": "1",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-proton-2.12.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-proton-2.12.wcp"
   },
-  
   {
     "type": "VKD3D",
     "verName": "2.14.1-arm64ec",
     "verCode": "0",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-2.14.1-arm64ec.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-2.14.1-arm64ec.wcp"
   },
-
-{
+  {
     "type": "VKD3D",
     "verName": "proton-3.0a.wcp",
     "verCode": "0",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-proton-3.0a.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-proton-3.0a.wcp"
   },
-
   {
     "type": "VKD3D",
     "verName": "arm64ec-3.0a.wcp",
     "verCode": "0",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-arm64ec-3.0a.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-arm64ec-3.0a.wcp"
   },
-  
   {
     "type": "VKD3D",
     "verName": "proton-3.0b-2763dd2",
     "verCode": "0",
-    "remoteUrl": "https://gh-proxy.org/https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-proton-3.0b-2763dd2.wcp"
+    "remoteUrl": "https://gh-proxy.org/https://github.com/dreamboyn81/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-proton-3.0b-2763dd2.wcp"
   }
-  
 ]
